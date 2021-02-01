@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/csshjufpkaj9ia8i?svg=true)](https://ci.appveyor.com/project/Ingask/chernovik)
